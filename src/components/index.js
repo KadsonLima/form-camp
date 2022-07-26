@@ -48,7 +48,7 @@ export default function Formulario() {
           onChange={handleInputChange}
           value={formValues.name || ""}
         />
-        <h2>Como você gostaria que fosse a Transmissão ou o Campeonato(regras, tipos de confrontos)</h2>
+        <h2> Deixe sua sugestão voce prefere um campeonato de PTXPT no formato 4vs4  ou  5v5 - se tiver mais alguma outra sugestao escreva para nós também.</h2>
         <textarea
           name="bio"
           onChange={handleInputChange}
